@@ -1,0 +1,44 @@
+h1{
+color: Midnightblue;
+text-shadow: 2px 2px aqua;
+}
+.mybutton{
+padding: 10px 20px;
+background-color: Midnightblue;
+color: white;
+border-radius: 10px;
+border: none;
+cursor:pointer;
+}
+.mybutton:active{
+padding: 10px 20px;
+background-color: aqua;
+color: black;
+border-radius: 10px;
+border: none;
+cursor:pointer;
+}
+
+.search-box input[type="search"] {
+  padding: 10px;
+  font-size: 17px;
+  border:none;
+  width:200px;
+}
+
+.search-box button {
+  width:50px;
+  padding: 5px;
+  background: white;
+  color: grey;
+  font-size: 17px;
+  border:none;
+  cursor: pointer;
+}
+search{
+padding: 25px 10px; 
+font-size: 16px; 
+border: 1px solid #ccc; 
+border-radius: 4px 0 0 4px; 
+outline: none;
+}
